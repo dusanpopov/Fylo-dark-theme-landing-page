@@ -130,8 +130,7 @@ html{
 
 .productive-img{
     width: 45rem;
-    margin-right: 6rem;
-    
+    margin-right: 6rem;  
 }
 
 .info__credo{
@@ -139,7 +138,6 @@ html{
     flex-direction: column;
     justify-content: flex-start;
     padding: 2rem 0;
-   
 }
 
 .info__credo__title{
